@@ -1,1 +1,1 @@
-oii esse nesse é o nosso grupo
+Meu Projeto Git Este repositório está sendo utilizado para um exercício de Git.
